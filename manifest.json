@@ -1,8 +1,0 @@
-{
-  "name": "Real Color Mixing",
-  "short_name": "Color Mixing",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#16161d",
-  "theme_color": "#16161d"
-}
